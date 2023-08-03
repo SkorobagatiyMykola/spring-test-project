@@ -1,0 +1,23 @@
+(!) AccountDetails:
+https://open-banking.pass-consulting.com/json_AccountDetails.html
+
+
+
+=================================================================================
+(!) AccountType
+
+https://open-banking.pass-consulting.com/json_ExternalCashAccountType1Code.html
+ODFT	Overdraft
+        Account is used for overdrafts.
+LOAN	Loan
+        Account used for loans.
+SLRY	Salary
+        Accounts used for salary payments.
+SVGS	Savings
+        Account used for savings.
+CACC	Current
+        Account used to post debits and credits when no specific account has been nominated.
+=================================================================================
+todo update BalanceType
+(!) BalanceType
+https://open-banking.pass-consulting.com/json_Balance.html

@@ -1,0 +1,14 @@
+Tasks:
+1. Connect currency
+   1.1. current exchange rate:
+        - https://bank.gov.ua/NBUStatService/v1/statdirectory/exchange?json
+   1.2. exchange rate on the date:
+        - https://bank.gov.ua/NBUStatService/v1/statdirectory/exchange?valcode=EUR&date=20230302&json
+   1.3. exchange rate from the date to date :
+        - https://bank.gov.ua/NBU_Exchange/exchange_site?start=20220115&end=20220131&valcode=usd&sort=exchangedate&order=desc&json
+
+2. Used transaction endpoint
+
+3. Add picture for product
+
+4. Add joke for telegram-bot
