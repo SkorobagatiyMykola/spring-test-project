@@ -12,3 +12,5 @@ Tasks:
 3. Add picture for product
 
 4. Add joke for telegram-bot
+
+5. Create graph
