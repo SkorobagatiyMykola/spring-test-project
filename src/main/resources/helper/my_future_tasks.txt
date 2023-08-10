@@ -13,4 +13,11 @@ Tasks:
 
 4. Add joke for telegram-bot
 
-5. Create graph
+5. Create graph line, square
+
+6. Chat-bot
+
+
+=================================================
+Questions:
+1. Pub-Sub: https://habr.com/ru/articles/270339/

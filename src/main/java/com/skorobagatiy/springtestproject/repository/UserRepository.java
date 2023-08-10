@@ -10,11 +10,11 @@ import org.springframework.transaction.annotation.Transactional;
 
 @Repository
 public interface UserRepository extends JpaRepository<User,Long> {
-    @Transactional
-    @Modifying
-    @Query("UPDATE User u SET u.name = :name, u.userName = :userName, u.preferredAccountId = :preferredAccountId WHERE u.id = :userId")
-    User updateUser(@Param("userId") Long id,
-                    @Param("name") String name,
-                    @Param("userName") String userName,
-                    @Param("preferredAccountId") String preferredAccountId);
+//    @Transactional
+//    @Modifying
+//    @Query("UPDATE User u SET u.name = :name, u.userName = :userName, u.preferredAccountId = :preferredAccountId WHERE u.id = :userId")
+//    User updateUser(@Param("userId") Long id,
+//                    @Param("name") String name,
+//                    @Param("userName") String userName,
+//                    @Param("preferredAccountId") String preferredAccountId);
 }
