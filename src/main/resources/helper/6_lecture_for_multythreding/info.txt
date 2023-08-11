@@ -1,0 +1,6 @@
+https://senior.ua/articles/mnogopotochnost-v-java-kurs-iz-shesti-lekciy-lekciya-1-obschie-svedeniya
+https://senior.ua/articles/mnogopotochnost-v-java-lekciya-2-potoki-svoystva-potokov-blokirovki
+https://senior.ua/articles/mnogopotochnost-v-java-lekciya-3-blokirovki-i-klassy-sinhronizacii-potokov
+https://senior.ua/articles/mnogopotochnost-v-java-lekciya-4-puly-potokov
+https://senior.ua/articles/mnogopotochnost-v-java-lekciya-5-atomarnye-peremennye-i-mnogopotochnye-kollekcii
+https://senior.ua/articles/mnogopotochnost-v-java-lekciya-6-vzaimnye-blokirovki-i-dampy-potokov
