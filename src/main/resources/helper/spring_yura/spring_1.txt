@@ -1,0 +1,33 @@
+Спрінг - контейнер
+DI (Dependency injecting) Inversion of Control
+    Обєкти не створюють свої залежності, а отримають
+AOP - (Аспектно орієнтоване програмування)
+======================================================================
+Основні модулі
+Core container
+    - Beans
+    - Core
+    - Context
+    - Expression
+AOP
+    - AOP
+    - Acpects
+
+Instrumentation
+    - Instrument
+
+Data access and integration
+    - JDBC
+    - JMS
+    - ORM
+    - Transaction
+
+Web & Remoting
+    - Web
+    - Servlet
+    - Struts
+
+Testing
+    - Test
+
+======================================================================
